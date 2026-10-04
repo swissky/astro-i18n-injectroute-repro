@@ -1,0 +1,14 @@
+{
+	"name": "astro-i18n-injectroute-repro",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "astro dev",
+		"build": "astro build",
+		"preview": "astro preview"
+	},
+	"dependencies": {
+		"@astrojs/node": "^11.1.6",
+		"astro": "^7.3.5"
+	}
+}
